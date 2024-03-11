@@ -3,4 +3,6 @@ MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.2"  # Пример - mistralai/Mi
 BOT_TOKEN = ""  # Пример - 6575406578:AAHJXXP9C3YuGGr...
 MAX_PROMT_TOKENS = 128  # На ваш вкус
 LOGS_PATH = "logs"
+DB_NAME = "db.sqlite"
+DB_TABLE_USERS_NAME = "users"
 # TODO Введите свои данные
